@@ -1,0 +1,11 @@
+C:\Users\svehlap.03\Desktop\VICE\bin\Debug\VICE.exe.config
+C:\Users\svehlap.03\Desktop\VICE\bin\Debug\VICE.exe
+C:\Users\svehlap.03\Desktop\VICE\bin\Debug\VICE.pdb
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.csproj.AssemblyReference.cache
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.Form1.resources
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.Properties.Resources.resources
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.csproj.GenerateResource.cache
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.csproj.CoreCompileInputs.cache
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.exe
+C:\Users\svehlap.03\Desktop\VICE\obj\Debug\VICE.pdb
